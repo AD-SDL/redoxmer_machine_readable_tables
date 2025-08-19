@@ -1,6 +1,6 @@
 
 
-This repository contains supporting tables for the study in machine-readable **Excel Open XML spreadsheet format** (`.xlsx`). These data files are freely available to fulfill public access requirements (e.g., DOE policy) and supplement a journal publication.
+This repository contains supporting tables for the study in machine-readable **Excel Open XML spreadsheet format** (`.xlsx`) and **Comma Separated Vector format** (`.csv`). These data files are freely available to fulfill public access requirements (e.g., DOE policy) and supplement a journal publication.
 
 ---
 
@@ -71,5 +71,13 @@ This repository contains supporting tables for the study in machine-readable **E
 - **Columns K–V**: Data reduction tuples (f_ν, tau_ν, delta_taû_ν)
 
 > Asterisks mark extrapolated time values.
+
+---
+
+## 📄 Table S5 - Candidates for > 1,000 h Solvents Found Through Search Space Expansion (550 Molecules)
+
+- **Column A**: The first letter of a numbered molecule in column A corresponds to a series in the first column Table S4.3.
+- **Columns B-D**: SMILES structural formulas, IUPAC names, and CAS registry numbers
+
 
 
