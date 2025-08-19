@@ -1,0 +1,550 @@
+name,smiles,IUPAC_name,CAS
+DMS,CS(C)(=O)=O,methylsulfonylmethane,67-71-0
+FMS,CS(=O)(=O)F,methanesulfonyl fluoride,558-25-8
+NO2E,CC[N+](=O)[O-],1-nitroethane,79-24-3
+FMPN,CC(C)(F)C#N,2-fluoro-2-methylpropanenitrile,138999-34-5
+2-MNP,CC(C)(C)[N+](=O)[O-],2-methyl-2-nitropropane,594-70-7
+MFDMC,COC(=O)OCF,fluoromethyl methyl carbonate,207804-61-3
+MDFP,COC(=O)C(C)(F)F,"methyl 2,2-difluoropropanoate",38650-84-9
+ETFAA,CCOC(=O)C(C)(F)F,"ethyl 2,2-difluoropropanoate",28781-85-3
+NOVEC7000,COC(F)(F)C(F)(F)C(F)(F)F,"1,1,1,2,2,3,3-heptafluoro-3-methoxypropane",375-03-1
+HFBN,N#CC(F)(F)C(F)(F)C(F)(F)F,"2,2,3,3,4,4,4-heptafluorobutanenitrile",375-00-8
+NOVEC4710,N#CC(F)(C(F)(F)F)C(F)(F)F,"2,3,3,3-tetrafluoro-2-(trifluoromethyl)propanenitrile",42532-60-5
+PFPMC,COC(=O)OCC(F)(F)C(F)(F)F,"methyl 2,2,3,3,3-pentafluoropropyl carbonate",156783-97-0
+OFPN,N#CC(F)(F)C(F)(F)C(F)(F)C(F)F,"2,2,3,3,4,4,5,5-octafluoropentanenitrile",145886-83-5
+NOVEC7100,COC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,"1,1,1,2,2,3,3,4,4-nonafluoro-4-methoxybutane",163702-07-6
+A1,COC(C)F,1-fluoro-1-methoxyethane,62131-01-5
+A2,O=S1(=O)CCC1,"thietane 1,1-dioxide",5687-92-3
+A3,COC(C)(F)F,"1,1-difluoro-1-methoxyethane",162250-14-8
+A4,CC(F)(F)C#N,"2,2-difluoropropanenitrile",49781-49-9
+A5,OC(F)(F)CF,"1,1,2-trifluoroethanol",28606-06-6
+A6,FC1(F)COC1,"3,3-difluorooxetane",33420-50-7
+A7,COS(C)(=O)=O,methyl methanesulfonate,66-27-3
+A8,FCOC(F)F,difluoro(fluoromethoxy)methane,461-63-2
+A9,FCOC(F)(F)F,trifluoro(fluoromethoxy)methane,2261-01-0
+A10,CC(F)(F)C1CO1,"2-(1,1-difluoroethyl)oxirane",381-75-9
+A11,FC1(F)CCOC1,"3,3-difluorooxolane",2060020-10-0
+A12,CC(F)(F)CC#N,"3,3-difluorobutanenitrile",1546395-26-9
+A13,COCC(F)(F)F,"1,1,1-trifluoro-2-methoxyethane",460-43-5
+A14,OC(F)(F)C(F)F,"1,1,2,2-tetrafluoroethanol",130953-44-5
+A15,N#CCS(=O)(=O)F,cyanomethanesulfonyl fluoride,50408-65-6
+A16,N#CCC(F)(F)F,"3,3,3-trifluoropropanenitrile",20530-38-5
+A17,FC(F)OC(F)F,difluoromethoxy(difluoro)methane,1691-17-4
+A18,O=C(F)C(F)(F)F,"2,2,2-trifluoroacetyl fluoride",354-34-7
+A19,FC(F)(F)C1CO1,2-(trifluoromethyl)oxirane,359-41-1
+A20,CP1(=O)OCCO1,"2-methyl-1,3,2lambda5-dioxaphospholane 2-oxide",1831-25-0
+A21,CC1(F)COC(=O)O1,"4-fluoro-4-methyl-1,3-dioxolan-2-one",114435-07-3
+A22,CC(F)(F)OC(F)F,"1-(difluoromethoxy)-1,1-difluoroethane",69948-29-4
+A23,FC1(F)COC1(F)F,"2,2,3,3-tetrafluorooxetane",765-63-9
+A24,FC1(F)CC(F)(F)O1,"2,2,4,4-tetrafluorooxetane",154330-40-2
+A25,FC(F)(F)C1(F)CO1,2-fluoro-2-(trifluoromethyl)oxirane,1103527-42-9
+A26,CC(F)(F)C(O)(F)F,"1,1,2,2-tetrafluoropropan-1-ol",28106-65-2
+A27,FCOCC(F)(F)F,"1,1,1-trifluoro-2-(fluoromethoxy)ethane",134561-94-7
+A28,FCCOC(F)(F)F,1-fluoro-2-(trifluoromethoxy)ethane,819-49-8
+A29,COC(F)(F)C(F)F,"1,1,2,2-tetrafluoro-1-methoxyethane",425-88-7
+A30,FC1OC1C(F)(F)F,2-fluoro-3-(trifluoromethyl)oxirane,2149589-54-6
+A31,FC(F)OC(F)(F)F,difluoromethoxy(trifluoro)methane,3822-68-2
+A32,COC(=O)OC(C)F,1-fluoroethyl methyl carbonate,871562-93-5
+A33,O=C1CCS(=O)(=O)O1,"2,2-dioxooxathiolan-5-one",5961-88-6
+A34,OC(F)(F)C(O)(F)F,"1,1,2,2-tetrafluoroethane-1,2-diol",342418-53-5
+A35,COC(=O)OC(F)F,difluoromethyl methyl carbonate,70411-01-7
+A36,COC(F)C(F)(F)F,"1,1,1,2-tetrafluoro-2-methoxyethane",50285-05-7
+A37,CC(F)(F)OCC(F)F,"1-(2,2-difluoroethoxy)-1,1-difluoroethane",167375-98-6
+A38,CC(F)(F)OC(F)(F)F,"1,1-difluoro-1-(trifluoromethoxy)ethane",69948-27-2
+A39,OC(F)(F)C(F)(F)CF,"1,1,2,2,3-pentafluoropropan-1-ol",28302-70-7
+A40,FCC(F)(F)OC(F)F,"1-(difluoromethoxy)-1,1,2-trifluoroethane",69948-24-9
+A41,COC(F)(F)C(F)(F)F,"1,1,1,2,2-pentafluoro-2-methoxyethane",22410-44-2
+A42,FC(F)OCC(F)(F)F,"2-(difluoromethoxy)-1,1,1-trifluoroethane",1885-48-9
+A43,FCOC(F)(F)C(F)F,"1,1,2,2-tetrafluoro-1-(fluoromethoxy)ethane",37031-31-5
+A44,FCOC(F)C(F)(F)F,"1,1,1,2-tetrafluoro-2-(fluoromethoxy)ethane",56885-27-9
+A45,N#CC(F)(F)C(F)(F)F,"2,2,3,3,3-pentafluoropropanenitrile",422-04-8
+A46,FC(F)COC(F)(F)F,"1,1-difluoro-2-(trifluoromethoxy)ethane",84011-15-4
+A47,O=S1(=O)CCCC1(F)F,"2,2-difluorothiolane 1,1-dioxide",397250-95-2
+A48,CC1OC(=O)OC1(F)F,"4,4-difluoro-5-methyl-1,3-dioxolan-2-one",185680-80-2
+A49,COC(F)(F)CC(F)F,"1,1,3,3-tetrafluoro-1-methoxypropane",1823949-68-3
+A50,COC(=O)CC(C)(F)F,"methyl 3,3-difluorobutanoate",1447671-66-0
+A51,O=C(F)C(F)(F)C(F)F,"2,2,3,3-tetrafluoropropanoyl fluoride",663-74-1
+A52,COS(=O)(=O)C(F)(F)F,methyl trifluoromethanesulfonate,333-27-7
+A53,FC(F)(F)C1(F)OC1(F)F,"2,2,3-trifluoro-3-(trifluoromethyl)oxirane",428-59-1
+A54,CC(F)(F)OCC(F)(F)F,"2-(1,1-difluoroethoxy)-1,1,1-trifluoroethane",25352-91-4
+A55,FC(F)(F)COC(F)(F)F,"1,1,1-trifluoro-2-(trifluoromethoxy)ethane",20193-67-3
+A56,COC(F)(F)CC(F)(F)F,"1,1,1,3,3-pentafluoro-3-methoxypropane",886762-12-5
+A57,FCC(F)(F)OC(F)(F)F,"1,1,2-trifluoro-1-(trifluoromethoxy)ethane",84011-00-7
+A58,FC(F)OC(F)(F)C(F)F,"1-(difluoromethoxy)-1,1,2,2-tetrafluoroethane",32778-11-3
+A59,OC(F)(F)C(F)(F)C(F)F,"1,1,2,2,3,3-hexafluoropropan-1-ol",53520-89-1
+A60,FC(F)OC(F)C(F)(F)F,"2-(difluoromethoxy)-1,1,1,2-tetrafluoroethane",57041-67-5
+A61,O=C(F)C(F)(F)C(F)(F)F,"2,2,3,3,3-pentafluoropropanoyl fluoride",422-61-7
+A62,FC(F)C(F)OC(F)(F)F,"1,1,2-trifluoro-2-(trifluoromethoxy)ethane",84011-06-3
+A63,FCOCC(F)(F)C(F)F,"1,1,2,2-tetrafluoro-3-(fluoromethoxy)propane",153810-64-1
+A64,N#CCC(F)(F)C(F)(F)F,"3,3,4,4,4-pentafluorobutanenitrile",123576-71-6
+A65,CC(F)(F)C(F)(F)C(O)(F)F,"1,1,2,2,3,3-hexafluorobutan-1-ol",119398-75-3
+A66,FC(F)C(F)(F)OC(F)(F)F,"1,1,2,2-tetrafluoro-1-(trifluoromethoxy)ethane",2356-61-8
+A67,FCOCC(F)(F)C(F)(F)F,"1,1,1,2,2-pentafluoro-3-(fluoromethoxy)propane",1515-13-5
+A68,FC(F)OC(F)(F)OC(F)F,bis(difluoromethoxy)-difluoromethane,78522-47-1
+A69,COC(F)(F)C(F)(F)C(F)F,"1,1,2,2,3,3-hexafluoro-1-methoxypropane",160620-20-2
+A70,OC(F)(F)C(F)(F)C(F)(F)F,"1,1,2,2,3,3,3-heptafluoropropan-1-ol",72301-80-5
+A71,FC(F)OC(F)(F)C(F)(F)F,"1-(difluoromethoxy)-1,1,2,2,2-pentafluoroethane",53997-64-1
+A72,COC(F)(F)C(F)C(F)(F)F,"1,1,1,2,3,3-hexafluoro-3-methoxypropane",382-34-3
+A73,CCOC(F)(F)CC(F)(F)F,"1-ethoxy-1,1,3,3,3-pentafluoropropane",24528-43-6
+A74,OC(F)(C(F)(F)F)C(F)(F)F,"1,1,1,2,3,3,3-heptafluoropropan-2-ol",24427-67-6
+A75,FC(F)COC(F)(F)C(F)F,"1-(2,2-difluoroethoxy)-1,1,2,2-tetrafluoroethane",50807-77-7
+A76,CC(F)(F)OCC(F)(F)C(F)F,"3-(1,1-difluoroethoxy)-1,1,2,2-tetrafluoropropane",1201897-09-7
+A77,FC(F)C(F)(F)OCC(F)(F)F,"1,1,2,2-tetrafluoro-1-(2,2,2-trifluoroethoxy)ethane",406-78-0
+A78,FCOC(F)(F)C(F)C(F)(F)F,"1,1,1,2,3,3-hexafluoro-3-(fluoromethoxy)propane",60598-14-3
+A79,FC(F)C(F)(F)COC(F)(F)F,"1,1,2,2-tetrafluoro-3-(trifluoromethoxy)propane",1683-81-4
+A80,FC(F)OCC(F)(F)C(F)(F)F,"3-(difluoromethoxy)-1,1,1,2,2-pentafluoropropane",56860-81-2
+A81,FC(OCC(F)(F)F)C(F)(F)F,"1,1,1,2-tetrafluoro-2-(2,2,2-trifluoroethoxy)ethane",55605-86-2
+A82,FC(F)COC(F)(F)C(F)(F)F,"1-(2,2-difluoroethoxy)-1,1,2,2,2-pentafluoroethane",171182-95-9
+A83,FC(F)(F)COC(F)(F)C(F)(F)F,"1,1,1,2,2-pentafluoro-2-(2,2,2-trifluoroethoxy)ethane",156053-88-2
+A84,CC(F)(F)OCC(F)(F)C(F)(F)F,"3-(1,1-difluoroethoxy)-1,1,1,2,2-pentafluoropropane",1365807-90-4
+A85,FCOC(F)(F)C(F)(F)C(F)(F)F,"1,1,1,2,2,3,3-heptafluoro-3-(fluoromethoxy)propane",184899-81-8
+A86,N#CC(F)(F)C(F)(F)OC(F)(F)F,"2,2,3,3-tetrafluoro-3-(trifluoromethoxy)propanenitrile",22325-74-2
+A87,FC(OC(F)(F)C(F)F)C(F)(F)F,"1,1,1,2-tetrafluoro-2-(1,1,2,2-tetrafluoroethoxy)ethane",51410-38-9
+A88,O=C(OCC(F)F)OCC(F)(F)F,"2,2-difluoroethyl 2,2,2-trifluoroethyl carbonate",1980085-24-2
+A89,O=C(F)C(F)(F)OC(F)(F)C(F)F,"2,2-difluoro-2-(1,1,2,2-tetrafluoroethoxy)acetyl fluoride",89076-47-1
+A90,FC(F)OC(F)(F)C(F)C(F)(F)F,"1-(difluoromethoxy)-1,1,2,3,3,3-hexafluoropropane",56860-85-6
+A91,FC(F)OC(F)C(F)(F)C(F)(F)F,"3-(difluoromethoxy)-1,1,1,2,2,3-hexafluoropropane",60598-11-0
+A92,FC(F)C(F)(F)C(F)(F)OC(F)(F)F,"1,1,2,2,3,3-hexafluoro-1-(trifluoromethoxy)propane",67490-36-2
+A93,FC(F)C(F)(F)OC(F)(F)C(F)(F)F,"1,1,1,2,2-pentafluoro-2-(1,1,2,2-tetrafluoroethoxy)ethane",134769-21-4
+A94,CC(F)(F)C(F)(F)C(F)(F)C(O)(F)F,"1,1,2,2,3,3,4,4-octafluoropentan-1-ol",39660-55-4
+A95,OC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,"1,1,2,2,3,3,4,4,4-nonafluorobutan-1-ol",1/7/3056
+A96,O=COCC(F)(F)C(F)(F)C(F)(F)F,"2,2,3,3,4,4,4-heptafluorobutyl formate",1365808-19-0
+A97,FC(F)COC(F)(F)C(F)C(F)(F)F,"1-(2,2-difluoroethoxy)-1,1,2,3,3,3-hexafluoropropane",1309602-06-9
+A98,O=C(OCC(F)F)OCC(F)(F)C(F)F,"2,2-difluoroethyl 2,2,3,3-tetrafluoropropyl carbonate",1980045-84-8
+A99,FC(F)C(F)(F)OCC(F)(F)C(F)(F)F,"1,1,1,2,2-pentafluoro-3-(1,1,2,2-tetrafluoroethoxy)propane",50807-74-4
+A100,N#CC(F)(F)C(F)(F)C(F)(F)C(F)(F)F,"2,2,3,3,4,4,5,5,5-nonafluoropentanenitrile",22325-71-9
+A101,FC(C(F)(F)F)C(F)(F)OCC(F)(F)F,"1,1,1,2,3,3-hexafluoro-3-(2,2,2-trifluoroethoxy)propane",993-95-3
+A102,COC(=O)OCC(F)(F)C(F)C(F)(F)F,"2,2,3,4,4,4-hexafluorobutyl methyl carbonate",106538-79-8
+A103,FC(F)OCC(F)(F)C(F)(F)C(F)(F)F,"4-(difluoromethoxy)-1,1,1,2,2,3,3-heptafluorobutane",50428-19-8
+A104,CCCOC(=O)OCC(F)(F)C(F)(F)F,"2,2,3,3,3-pentafluoropropyl propyl carbonate",1980085-61-7
+A105,COC(=O)C(F)(F)C(F)(F)OC(F)(F)F,"methyl 2,2,3,3-tetrafluoro-3-(trifluoromethoxy)propanoate",356-69-4
+F1,CC(=O)F,acetyl fluoride,557-99-3
+F2,CCC#N,propanenitrile,107-12-0
+F3,FC1CO1,2-fluorooxirane,64515-39-5
+F4,F[C@@H]1CO1,(2R)-2-fluorooxirane,321975-92-2
+F5,N#CC#N,oxalonitrile,460-19-5
+F6,CC(=O)OF,fluoro acetate,78948-09-1
+F7,OC1(F)CC1,1-fluorocyclopropan-1-ol,1785079-94-8
+F8,FS(F)(F)F,tetrafluoro-lambda4-sulfane,7783-60-0
+F9,OC(F)(F)F,trifluoromethanol,1493-11-4
+F10,O=S(=O)(F)F,sulfuryl difluoride,2699-79-8
+F11,F[C@@H]1O[C@H]1F,"(2S,3S)-2,3-difluorooxirane",80397-37-1
+F12,COCCF,1-fluoro-2-methoxyethane,627-43-0
+F13,COC(F)F,difluoro(methoxy)methane,359-15-9
+F14,F[C@@H]1O[C@@H]1F,"(2R,3S)-2,3-difluorooxirane",54943-69-0
+F15,FOC(F)(F)F,trifluoromethyl hypofluorite,373-91-1
+F16,CCS(=O)(=O)F,ethanesulfonyl fluoride,754-03-0
+F17,N#CC(F)(F)F,"2,2,2-trifluoroacetonitrile",353-85-5
+F18,O=S(=O)(F)CF,fluoromethanesulfonyl fluoride,1426-07-9
+F19,O=S(=O)(F)CCF,2-fluoroethanesulfonyl fluoride,460-46-8
+F20,FC1(F)OC1(F)F,"2,2,3,3-tetrafluorooxirane",694-17-7
+F21,COC1CC1(F)F,"1,1-difluoro-2-methoxycyclopropane",59164-22-6
+F22,CC(F)(F)[C@H]1CO1,"(2R)-2-(1,1-difluoroethyl)oxirane",2227645-04-5
+F23,CC(F)(F)[C@@H]1CO1,"(2S)-2-(1,1-difluoroethyl)oxirane",2227813-27-4
+F24,N#CC1CC1(F)F,"2,2-difluorocyclopropane-1-carbonitrile",36597-03-2
+F25,N#CCC1(F)CC1,2-(1-fluorocyclopropyl)acetonitrile,1780523-76-3
+F26,N#CC1(F)COC1,3-fluorooxetane-3-carbonitrile,2113519-45-0
+F27,O=C(F)OC(=O)F,carbonofluoridoyl carbonofluoridate,177036-04-3
+F28,CC(F)S(=O)(=O)F,1-fluoroethanesulfonyl fluoride,2764004-86-4
+F29,O=COC(F)(F)F,trifluoromethyl formate,85358-65-2
+F30,N#CC1(F)CCC1,1-fluorocyclobutane-1-carbonitrile,918402-24-1
+F31,O=S(=O)(F)C1CC1,cyclopropanesulfonyl fluoride,822-49-1
+F32,N#CC(F)(F)C#N,"2,2-difluoropropanedinitrile",665-01-0
+F33,FC(F)(F)[C@@H]1CO1,(2S)-2-(trifluoromethyl)oxirane,130025-34-2
+F34,O=S(=O)(F)C(F)F,difluoromethanesulfonyl fluoride,1554-47-8
+F35,CS(=O)C(F)(F)F,trifluoro(methylsulfinyl)methane,2697-49-6
+F36,FCCOCCF,1-fluoro-2-(2-fluoroethoxy)ethane,373-21-7
+F37,O=C1OCC(F)(F)O1,"4,4-difluoro-1,3-dioxolan-2-one",304881-43-4
+F38,CC(F)(F)OC(=O)F,"1,1-difluoroethyl carbonofluoridate",1344118-11-1
+F39,CC(F)(F)S(=O)(=O)F,"1,1-difluoroethanesulfonyl fluoride",2228935-54-2
+F40,O=S(=O)(F)C1(F)CC1,1-fluorocyclopropane-1-sulfonyl fluoride,2770555-71-8
+F41,O=C1O[C@@H](F)[C@@H](F)O1,"(4S,5R)-4,5-difluoro-1,3-dioxolan-2-one",311810-75-0
+F42,O=C1O[C@H](F)[C@@H](F)O1,"(4R,5R)-4,5-difluoro-1,3-dioxolan-2-one",311810-76-1
+F43,FC1COC(F)(F)O1,"2,2,4-trifluoro-1,3-dioxolane",62999-58-0
+F44,CC(F)(F)CC1CO1,"2-(2,2-difluoropropyl)oxirane",2228611-50-3
+F45,FC1(F)CC2(CO2)C1,"5,5-difluoro-1-oxaspiro[2.3]hexane",1197420-24-8
+F46,O=[N+]([O-])C1(F)COC1,3-fluoro-3-nitrooxetane,70187-44-9
+F47,CC(F)(F)C[N+](=O)[O-],"2,2-difluoro-1-nitropropane",93696-72-1
+F48,N#CC12CC(F)(C1)C2,3-fluorobicyclo[1.1.1]pentane-1-carbonitrile,146038-52-0
+F49,O=C(OCF)OCF,bis(fluoromethyl) carbonate,207804-65-7
+F50,O=S1(=O)OCC(F)O1,"4-fluoro-1,3,2-dioxathiolane 2,2-dioxide",23910-98-7
+F51,FC1(F)C[C@@H]2O[C@@H]2C1,"(1S,5R)-3,3-difluoro-6-oxabicyclo[3.1.0]hexane",2168553-69-1
+F52,O=C(F)OC(F)(F)F,trifluoromethyl carbonofluoridate,3299-24-9
+F53,N#CC1CC(F)(F)C1,"3,3-difluorocyclobutane-1-carbonitrile",86770-80-1
+F54,CC(C)(F)C[N+](=O)[O-],2-fluoro-2-methyl-1-nitropropane,55816-72-3
+F55,N#CCC1CC1(F)F,"2-(2,2-difluorocyclopropyl)acetonitrile",2105122-14-1
+F56,F[C@H]1O[C@@H]1C(F)(F)F,"(2R,3S)-2-fluoro-3-(trifluoromethyl)oxirane",2149591-04-6
+F57,CC1(S(=O)(=O)F)CC1,1-methylcyclopropane-1-sulfonyl fluoride,2138185-51-8
+F58,COC(=O)C1(F)CC1,methyl 1-fluorocyclopropane-1-carboxylate,1877341-77-9
+F59,O=S(=O)(F)C(F)(F)F,trifluoromethanesulfonyl fluoride,335-05-7
+F60,CS(=O)(=O)C(F)(F)F,trifluoro(methylsulfonyl)methane,421-82-9
+F61,O=S1(=O)OCCC1F,"3-fluorooxathiolane 2,2-dioxide",652143-72-1
+F62,CC(C)(F)S(=O)(=O)F,2-fluoropropane-2-sulfonyl fluoride,2229616-02-6
+F63,FC1(F)CCC2OC21,"2,2-difluoro-6-oxabicyclo[3.1.0]hexane",2287290-43-9
+F64,CC1CC1S(=O)(=O)F,2-methylcyclopropane-1-sulfonyl fluoride,2228448-29-9
+F65,C[C@@H]1C[C@H]1S(=O)(=O)F,"(1R,2R)-2-methylcyclopropane-1-sulfonyl fluoride",2351208-34-7
+F66,CCC1(F)OC1(C)C,"2-ethyl-2-fluoro-3,3-dimethyloxirane",29974-50-3
+F67,O=S1(=O)CC(F)CO1,"4-fluorooxathiolane 2,2-dioxide",1384119-29-2
+F68,O=S(=O)(F)CC(F)F,"2,2-difluoroethanesulfonyl fluoride",2137860-91-2
+F69,CC(C)(F)C1(C)CO1,2-(2-fluoropropan-2-yl)-2-methyloxirane,2228718-03-2
+F70,N#CS(=O)C(F)(F)F,trifluoromethylsulfinylformonitrile,61951-27-7
+F71,CO[C@@H](F)C(F)(F)F,"(2S)-1,1,1,2-tetrafluoro-2-methoxyethane",156700-89-9
+F72,CC1(C(F)(F)F)CO1,2-methyl-2-(trifluoromethyl)oxirane,374-11-8
+F73,CC(F)(F)CS(=O)F,"2,2-difluoropropane-1-sulfinyl fluoride",97006-65-0
+F74,O=S1(=O)OC(F)C1(F)F,"3,3,4-trifluorooxathietane 2,2-dioxide",250296-15-2
+F75,FC1C(F)(F)OC1(F)F,"2,2,3,4,4-pentafluorooxetane",144109-03-5
+F76,FC1OC(F)(F)OC1F,"2,2,4,5-tetrafluoro-1,3-dioxolane",60010-41-5
+F77,O=C(F)C1(F)OC1(F)F,"2,3,3-trifluorooxirane-2-carbonyl fluoride",24419-82-7
+F78,O=S(=O)(F)C1CC1(F)F,"2,2-difluorocyclopropane-1-sulfonyl fluoride",1936720-48-7
+F79,CC(F)(F)CS(=O)(=O)F,"2,2-difluoropropane-1-sulfonyl fluoride",2228434-44-2
+F80,FOC(F)(F)C(F)(F)F,"1,1,2,2,2-pentafluoroethyl hypofluorite",3848-94-0
+F81,O=S(=O)(F)CC(F)(F)F,"2,2,2-trifluoroethanesulfonyl fluoride",503-39-9
+F82,FCC(F)OC(F)(F)F,"1,2-difluoro-1-(trifluoromethoxy)ethane",84011-16-5
+F83,O=S1(=O)CCC(F)(F)C1,"3,3-difluorothiolane 1,1-dioxide",779355-86-1
+F84,O=C1CC(F)(F)C(=O)O1,"3,3-difluorooxolane-2,5-dione",79802-73-6
+F85,O=[N+]([O-])C12CC(F)(C1)C2,1-fluoro-3-nitrobicyclo[1.1.1]pentane,146038-51-9
+F86,COC(=O)C1CC1(F)F,"methyl 2,2-difluorocyclopropane-1-carboxylate",1823877-22-0
+F87,CC1(CC#N)CC1(F)F,"2-(2,2-difluoro-1-methylcyclopropyl)acetonitrile",1955523-89-3
+F88,N#CC1CC12CC2(F)F,"2,2-difluorospiro[2.2]pentane-5-carbonitrile",2925280-81-3
+F89,O=S(=O)(F)CC1(F)CC1,(1-fluorocyclopropyl)methanesulfonyl fluoride,2137643-76-4
+F90,O=C1OCC2C1C2(F)F,"6,6-difluoro-3-oxabicyclo[3.1.0]hexan-2-one",2097959-27-6
+F91,CC1(C#N)CC(F)(F)C1,"3,3-difluoro-1-methylcyclobutane-1-carbonitrile",1447949-92-9
+F92,CC(F)(F)CC[N+](=O)[O-],"3,3-difluoro-1-nitrobutane",2229225-26-5
+F93,COC(=O)CC1(F)CC1,methyl 2-(1-fluorocyclopropyl)acetate,2114097-42-4
+F94,O=S(=O)(F)CS(=O)(=O)F,methanedisulfonyl fluoride,42148-23-2
+F95,FC(F)C(F)(F)C1CO1,"2-(1,1,2,2-tetrafluoroethyl)oxirane",1124344-52-0
+F96,N#CC(=O)OC(F)(F)F,trifluoromethyl cyanoformate,87414-34-4
+F97,CCOC(=O)C1(F)CC1,ethyl 1-fluorocyclopropane-1-carboxylate,2089300-05-8
+F98,COC(=O)C1(F)COC1,methyl 3-fluorooxetane-3-carboxylate,2114751-47-0
+F99,O=S(=O)(F)C12CC(C1)C2,bicyclo[1.1.1]pentane-1-sulfonyl fluoride,2416234-57-4
+F100,FC(F)C(F)(F)[C@H]1CO1,"(2R)-2-(1,1,2,2-tetrafluoroethyl)oxirane",2227650-01-1
+F101,CC1(C(F)F)OC12CC2,2-(difluoromethyl)-2-methyl-1-oxaspiro[2.2]pentane,758709-86-3
+F102,COS(=O)(=O)C(F)(F)F,methyl trifluoromethanesulfonate,207556-12-5
+F103,FC1(F)C2CCCOC21,"7,7-difluoro-2-oxabicyclo[4.1.0]heptane",131262-44-7
+F104,FCCOCOCCF,1-fluoro-2-(2-fluoroethoxymethoxy)ethane,373-40-0
+F105,O=[N+]([O-])CCC(F)(F)F,"1,1,1-trifluoro-3-nitropropane",461-35-8
+F106,CC(C)(F)CC[N+](=O)[O-],3-fluoro-3-methyl-1-nitrobutane,2228176-03-0
+F107,CC(C)(F)C1(C#N)CC1,1-(2-fluoropropan-2-yl)cyclopropane-1-carbonitrile,2110378-58-8
+F108,CC(F)(F)C1(C#N)CC1,"1-(1,1-difluoroethyl)cyclopropane-1-carbonitrile",1996138-48-7
+F109,N#CCC12CC(F)(C1)C2,2-(3-fluoro-1-bicyclo[1.1.1]pentanyl)acetonitrile,2891598-34-6
+F110,CC1(C)CC1S(=O)(=O)F,"2,2-dimethylcyclopropane-1-sulfonyl fluoride",2353960-37-7
+F111,COC(CF)(OC)OC,"2-fluoro-1,1,1-trimethoxyethane",2460408-15-3
+F112,CCC1(S(=O)(=O)F)CC1,1-ethylcyclopropane-1-sulfonyl fluoride,2137714-62-4
+F113,FC(F)C(F)(F)[C@@H]1CO1,"(2S)-2-(1,1,2,2-tetrafluoroethyl)oxirane",2227690-52-8
+F114,CCC1CC1S(=O)(=O)F,2-ethylcyclopropane-1-sulfonyl fluoride,2648947-60-6
+F115,C[C@@H]1C[C@@]1(C)S(=O)(=O)F,"(1R,2R)-1,2-dimethylcyclopropane-1-sulfonyl fluoride",2380548-52-5
+F116,O=C1OC(F)(F)C(F)(F)O1,"4,4,5,5-tetrafluoro-1,3-dioxolan-2-one",183301-46-4
+F117,CC1(F)OC(=O)OC1(F)F,"4,4,5-trifluoro-5-methyl-1,3-dioxolan-2-one",827300-09-4
+F118,O=S1(=O)OC(F)(F)C1(F)F,"3,3,4,4-tetrafluorooxathietane 2,2-dioxide",697-18-7
+F119,FOC(F)(OF)C(F)(F)F,"(1,2,2,2-tetrafluoro-1-fluorooxyethyl) hypofluorite",16329-92-3
+F120,O=S1(=O)OCC(F)(F)CO1,"5,5-difluoro-1,3,2-dioxathiane 2,2-dioxide",1215071-15-0
+F121,CC(=O)OCC1CC1(F)F,"(2,2-difluorocyclopropyl)methyl acetate",233584-55-9
+F122,COC(F)(F)C(F)(F)OC,"1,1,2,2-tetrafluoro-1,2-dimethoxyethane",73287-23-7
+F123,FC1(F)CCCC2(F)OC12,"1,5,5-trifluoro-7-oxabicyclo[4.1.0]heptane",145706-22-5
+F124,CC(F)(F)COS(C)(=O)=O,"2,2-difluoropropyl methanesulfonate",1166842-51-8
+F125,O=S(=O)(F)C1CC(F)(F)C1,"3,3-difluorocyclobutane-1-sulfonyl fluoride",2172562-25-1
+F126,O=S(=O)(F)CC1CC1(F)F,"(2,2-difluorocyclopropyl)methanesulfonyl fluoride",2295008-51-2
+F127,O=C(OCCF)OCCF,bis(2-fluoroethyl) carbonate,406-15-5
+F128,O=C(F)C(F)(F)S(=O)(=O)F,"2,2-difluoro-2-fluorosulfonylacetyl fluoride",677-67-8
+F129,N#CC1CC(F)(F)C1(F)F,"2,2,3,3-tetrafluorocyclobutane-1-carbonitrile",356-81-0
+F130,O=C1OCC(F)(F)C1(F)F,"3,3,4,4-tetrafluorooxolan-2-one",58816-74-3
+F131,O=S(=O)(F)C(F)C(F)(F)F,"1,2,2,2-tetrafluoroethanesulfonyl fluoride",2127-74-4
+F132,FC(F)O[C@@H](F)C(F)(F)F,"(2S)-2-(difluoromethoxy)-1,1,1,2-tetrafluoroethane",142916-68-5
+F133,FC(F)O[C@H](F)C(F)(F)F,"(2R)-2-(difluoromethoxy)-1,1,1,2-tetrafluoroethane",143252-06-6
+F134,O=S(=O)(F)C(F)(F)C(F)F,"1,1,2,2-tetrafluoroethanesulfonyl fluoride",82106-27-2
+F135,COC(=O)[C@@H]1C[C@]1(F)OC,"methyl (1S,2R)-2-fluoro-2-methoxycyclopropane-1-carboxylate",105783-74-2
+F136,COC(=O)C1(F)CC(F)C1,"methyl 1,3-difluorocyclobutane-1-carboxylate",2231674-47-6
+F137,O=[N+]([O-])CC1CC(F)(F)C1,"1,1-difluoro-3-(nitromethyl)cyclobutane",2229354-64-5
+F138,O=S(=O)(F)OCC(F)(F)F,"1,1,1-trifluoro-2-fluorosulfonyloxyethane",66950-71-8
+F139,FC(F)(F)C(F)(F)C1CO1,"2-(1,1,2,2,2-pentafluoroethyl)oxirane",51035-19-9
+F140,FC(F)(F)C(F)(F)[C@@H]1CO1,"(2S)-2-(1,1,2,2,2-pentafluoroethyl)oxirane",2227713-71-3
+F141,N#CC(F)(F)C(F)(F)C#N,"2,2,3,3-tetrafluorobutanedinitrile",663-41-2
+F142,COC(=O)[C@@H]1C[C@@]1(F)OC,"methyl (1S,2S)-2-fluoro-2-methoxycyclopropane-1-carboxylate",105783-72-0
+F143,N#CC1CC2(C1)CC2(F)F,"2,2-difluorospiro[2.3]hexane-5-carbonitrile",2758663-63-5
+F144,O=[N+]([O-])CC(F)(F)C(F)F,"1,1,2,2-tetrafluoro-3-nitropropane",2229631-91-6
+F145,O=S(C(F)(F)F)C(F)(F)F,trifluoro(trifluoromethylsulfinyl)methane,30341-37-8
+F146,CC1COC(F)(F)C1(F)F,"2,2,3,3-tetrafluoro-4-methyloxolane",240140-63-0
+F147,O=S(=O)(F)CCC(F)(F)F,"3,3,3-trifluoropropane-1-sulfonyl fluoride",1349718-83-7
+F148,COC(F)(OC)C(F)(F)F,"1,1,1,2-tetrafluoro-2,2-dimethoxyethane",595543-28-5
+F149,CS(=O)(=O)OCC1(F)CC1,(1-fluorocyclopropyl)methyl methanesulfonate,1393469-88-9
+F150,FC(F)(F)C(F)(F)[C@H]1CO1,"(2R)-2-(1,1,2,2,2-pentafluoroethyl)oxirane",263264-06-8
+F151,COC(F)(F)C(F)(F)C#N,"2,2,3,3-tetrafluoro-3-methoxypropanenitrile",77946-88-4
+F152,COC(=O)C12CC(F)(C1)C2,methyl 3-fluorobicyclo[1.1.1]pentane-1-carboxylate,262851-99-0
+F153,CCOC(=O)C1CC1(F)F,"ethyl 2,2-difluorocyclopropane-1-carboxylate",151324-64-0
+F154,COC(=O)C1CC(F)(F)C1,"methyl 3,3-difluorocyclobutane-1-carboxylate",1234616-13-7
+F155,O=C1CC(F)(F)CC(=O)O1,"4,4-difluorooxane-2,6-dione",2309460-79-3
+F156,O=[N+]([O-])[C@@H]1C[C@H]1C(F)(F)F,"(1R,2R)-1-nitro-2-(trifluoromethyl)cyclopropane",1287760-03-5
+F157,CC1(CC#N)CC(F)(F)C1,"2-(3,3-difluoro-1-methylcyclobutyl)acetonitrile",1773507-86-0
+F158,N#CC12OCCC1C2(F)F,"6,6-difluoro-2-oxabicyclo[3.1.0]hexane-1-carbonitrile",1955557-96-6
+F159,COC(=O)C1C(C)C1(F)F,"methyl 2,2-difluoro-3-methylcyclopropane-1-carboxylate",2247657-23-2
+F160,CC(F)(F)C1(CC#N)CC1,"2-[1-(1,1-difluoroethyl)cyclopropyl]acetonitrile",2287332-78-7
+F161,N#CC1C2CCC(F)(F)C12,"2,2-difluorobicyclo[3.1.0]hexane-6-carbonitrile",2411220-56-7
+F162,COC(=O)CC1CC1(F)F,"methyl 2-(2,2-difluorocyclopropyl)acetate",2110679-36-0
+F163,CC1(CCC#N)CC1(F)F,"3-(2,2-difluoro-1-methylcyclopropyl)propanenitrile",2137699-01-3
+F164,O=[N+]([O-])CC(F)C(F)(F)F,"1,1,1,2-tetrafluoro-3-nitropropane",2228386-86-3
+F165,COC(=O)C1(F)CC1(C)C,"methyl 1-fluoro-2,2-dimethylcyclopropane-1-carboxylate",2222981-41-9
+F166,O=[N+]([O-])C1CC1C(F)(F)F,1-nitro-2-(trifluoromethyl)cyclopropane,2385663-11-4
+F167,N#CCC1(S(=O)(=O)F)CC1,1-(cyanomethyl)cyclopropane-1-sulfonyl fluoride,2384063-96-9
+F168,O=S(=O)(C1CC1)C(F)(F)F,trifluoromethylsulfonylcyclopropane,57964-43-9
+F169,COCC1(S(=O)(=O)F)CC1,1-(methoxymethyl)cyclopropane-1-sulfonyl fluoride,2138414-99-8
+F170,O=S(=O)(F)CC1CC12CC2,spiro[2.2]pentan-2-ylmethanesulfonyl fluoride,2171927-00-5
+F171,CC1(C2CC(F)(F)C2)CO1,"2-(3,3-difluorocyclobutyl)-2-methyloxirane",2228435-17-2
+F172,O=S(=O)(F)CC1(F)CCC1,(1-fluorocyclobutyl)methanesulfonyl fluoride,2137916-30-2
+F173,O=S(=O)(F)C1CC2(CC2)C1,spiro[2.3]hexane-5-sulfonyl fluoride,2648962-60-9
+F174,O=S(=O)(F)C1CC12CCC2,spiro[2.3]hexane-2-sulfonyl fluoride,2648947-78-6
+F175,O=S(=O)(F)C1(C(F)F)CC1,1-(difluoromethyl)cyclopropane-1-sulfonyl fluoride,2385906-82-9
+F176,O=S(=O)(F)CC12CC(C1)C2,1-bicyclo[1.1.1]pentanylmethanesulfonyl fluoride,2648945-08-6
+F177,CC(F)(F)OC(=O)C(F)(F)F,"1,1-difluoroethyl 2,2,2-trifluoroacetate",1344118-13-3
+F178,FC1(F)OC(F)(F)C(F)(F)O1,"2,2,4,4,5,5-hexafluoro-1,3-dioxolane",21297-65-4
+F179,FC1(F)C(F)(F)C2(F)OC12F,"1,2,2,3,3,4-hexafluoro-5-oxabicyclo[2.1.0]pentane",13324-28-2
+F180,O=C(F)C(F)(F)OC(F)(F)F,"2,2-difluoro-2-(trifluoromethoxy)acetyl fluoride",690-43-7
+F181,COC(=O)C1(F)CC(F)(F)C1,"methyl 1,3,3-trifluorocyclobutane-1-carboxylate",2231677-18-0
+F182,CC1(C#N)CC(F)(F)C1(F)F,"2,2,3,3-tetrafluoro-1-methylcyclobutane-1-carbonitrile",356-94-5
+F183,O=[N+]([O-])CC(F)(F)C(F)(F)F,"1,1,1,2,2-pentafluoro-3-nitropropane",2228570-52-1
+F184,O=C(OS(=O)(=O)F)C(F)(F)F,"fluorosulfonyl 2,2,2-trifluoroacetate",5762-53-8
+F185,COC(F)(F)C(F)(F)C(=O)F,"2,2,3,3-tetrafluoro-3-methoxypropanoyl fluoride",2794-15-2
+F186,N#CCC1CC(F)(F)C1(F)F,"2-(2,2,3,3-tetrafluorocyclobutyl)acetonitrile",356-83-2
+F187,O=S(=O)(F)C(F)(F)C(F)(F)F,"1,1,2,2,2-pentafluoroethanesulfonyl fluoride",354-87-0
+F188,CS(=O)(=O)OCC1CC1(F)F,"(2,2-difluorocyclopropyl)methyl methanesulfonate",1184958-76-6
+F189,O=S(=O)(F)CC1CC(F)(F)C1,"(3,3-difluorocyclobutyl)methanesulfonyl fluoride",2138347-16-5
+F190,CC1(CS(=O)(=O)F)CC1(F)F,"(2,2-difluoro-1-methylcyclopropyl)methanesulfonyl fluoride",2137592-69-7
+F191,O=S(=O)(F)CCC1CC1(F)F,"2-(2,2-difluorocyclopropyl)ethanesulfonyl fluoride",2137548-23-1
+F192,O=S(=O)(F)C(F)(F)C(O)(F)F,"1,1,2,2-tetrafluoro-2-hydroxyethanesulfonyl fluoride",733736-25-9
+F193,CCOC(=O)C1CC(F)(F)C1,"ethyl 3,3-difluorocyclobutane-1-carboxylate",681128-38-1
+F194,CC(=O)OC(C)C1CC1(F)F,"1-(2,2-difluorocyclopropyl)ethyl acetate",509072-71-3
+F195,CC(=O)OCC1C(C)C1(F)F,"(2,2-difluoro-3-methylcyclopropyl)methyl acetate",509072-65-5
+F196,CC1(F)OC(=O)C2(C)CC12C,"4-fluoro-1,4,5-trimethyl-3-oxabicyclo[3.1.0]hexan-2-one",62499-85-8
+F197,CCOC(=O)CC1CC1(F)F,"ethyl 2-(2,2-difluorocyclopropyl)acetate",1393553-89-3
+F198,N#CC12CC(C(F)(F)F)(C1)C2,3-(trifluoromethyl)bicyclo[1.1.1]pentane-1-carbonitrile,585532-16-7
+F199,COC(=O)C1(C)CC(F)(F)C1,"methyl 3,3-difluoro-1-methylcyclobutane-1-carboxylate",1523571-06-3
+F200,CCOC(=O)C1(C#N)CC1F,ethyl 1-cyano-2-fluorocyclopropane-1-carboxylate,1706439-33-9
+F201,N#CC1CC2(C1)CC(F)(F)C2,"2,2-difluorospiro[3.3]heptane-6-carbonitrile",2306268-77-7
+F202,COC(=O)C1(C(C)(F)F)CC1,"methyl 1-(1,1-difluoroethyl)cyclopropane-1-carboxylate",1909319-67-0
+F203,N#CC12OCCCC1C2(F)F,"7,7-difluoro-2-oxabicyclo[4.1.0]heptane-1-carbonitrile",1955553-05-5
+F204,CCOC(=O)C12CC(F)(C1)C2,ethyl 3-fluorobicyclo[1.1.1]pentane-1-carboxylate,1935130-91-8
+F205,CCOC(=O)C1(F)CC1C#N,ethyl 2-cyano-1-fluorocyclopropane-1-carboxylate,2167004-53-5
+F206,O=C1OC(=O)[C@@H]2CC(F)(F)[C@H]12,"(1R,5S)-6,6-difluoro-3-oxabicyclo[3.2.0]heptane-2,4-dione",2375250-84-1
+F207,O=[N+]([O-])CCC(F)(F)C(F)F,"1,1,2,2-tetrafluoro-4-nitrobutane",2228834-26-0
+F208,N#CC1(C2CC(F)(F)C2)CC1,"1-(3,3-difluorocyclobutyl)cyclopropane-1-carbonitrile",2229213-93-6
+F209,COC(=O)C1(S(=O)(=O)F)CC1,methyl 1-fluorosulfonylcyclopropane-1-carboxylate,2757912-72-2
+F210,O=[N+]([O-])CCC1CC(F)(F)C1,"1,1-difluoro-3-(2-nitroethyl)cyclobutane",2228622-62-4
+F211,CCOC(=O)[C@@]1(F)CC1C#N,ethyl (1R)-2-cyano-1-fluorocyclopropane-1-carboxylate,1373556-18-3
+F212,O=S(=O)(OCCF)OCCF,bis(2-fluoroethyl) sulfate,381-46-4
+F213,O=S(=O)(OC(F)F)C(F)(F)F,difluoromethyl trifluoromethanesulfonate,1885-46-7
+F214,FC1(F)COCOCC1(F)F,"5,5,6,6-tetrafluoro-1,3-dioxepane",1547-52-0
+F215,CS(=O)(=O)C(F)(F)C(F)(F)F,"1,1,1,2,2-pentafluoro-2-methylsulfonylethane",847068-63-7
+F216,FC(F)(F)[C@@H]1O[C@H]1C(F)(F)F,"(2R,3R)-2,3-bis(trifluoromethyl)oxirane",71742-64-8
+F217,FC1(F)CCC2(C1)OCCO2,"8,8-difluoro-1,4-dioxaspiro[4.4]nonane",2386238-00-0
+F218,CC1(C)CC1(C)CS(=O)(=O)F,"(1,2,2-trimethylcyclopropyl)methanesulfonyl fluoride",2172003-77-7
+F219,C[C@@H]1[C@@H](CS(=O)(=O)F)C1(F)F,"[(1R,3R)-2,2-difluoro-3-methylcyclopropyl]methanesulfonyl fluoride",2291044-12-5
+F220,O=S(=O)(F)CC1CC2(CC2)C1,spiro[2.3]hexan-5-ylmethanesulfonyl fluoride,2648946-04-5
+F221,CC(F)(F)C(F)CS(=O)(=O)F,"2,3,3-trifluorobutane-1-sulfonyl fluoride",2172533-82-1
+F222,CC1(C)C(S(=O)(=O)F)C1(C)C,"2,2,3,3-tetramethylcyclopropane-1-sulfonyl fluoride",2228777-51-1
+F223,O=S(=O)(F)C12CCCCC1C2,bicyclo[4.1.0]heptane-1-sulfonyl fluoride,2137900-32-2
+F224,CCC12CC(S(=O)(=O)F)(C1)C2,3-ethylbicyclo[1.1.1]pentane-1-sulfonyl fluoride,2648962-07-4
+F225,O=S(=O)(F)C1C2CCCCC21,bicyclo[4.1.0]heptane-7-sulfonyl fluoride,2648962-41-6
+F226,CC12CC(CS(=O)(=O)F)(C1)C2,(3-methyl-1-bicyclo[1.1.1]pentanyl)methanesulfonyl fluoride,2757958-39-5
+F227,COC[C@]1(S(=O)(=O)F)C[C@@H]1C,"(1S,2S)-1-(methoxymethyl)-2-methylcyclopropane-1-sulfonyl fluoride",2380587-68-6
+F228,O=C1OC(F)(F)C(F)(F)C1(F)F,"3,3,4,4,5,5-hexafluorooxolan-2-one",702-35-2
+F229,FC1(F)OC(F)(F)C2(F)OC12F,"1,2,2,4,4,5-hexafluoro-3,6-dioxabicyclo[3.1.0]hexane",680615-57-0
+F230,CC(=O)OC(F)(F)OC(F)(F)F,[difluoro(trifluoromethoxy)methyl] acetate,2195-84-8
+F231,FC(F)(F)OC(F)(F)C(F)(F)F,"1,1,1,2,2-pentafluoro-2-(trifluoromethoxy)ethane",665-16-7
+F232,COC(F)(F)C(F)OC(F)(F)F,"1,1,2-trifluoro-1-methoxy-2-(trifluoromethoxy)ethane",996-56-5
+F233,FC1(F)COCC(F)(F)C1(F)F,"3,3,4,4,5,5-hexafluorooxane",355-09-9
+F234,O=C(F)C(F)(F)C(F)(F)C(=O)F,"2,2,3,3-tetrafluorobutanedioyl difluoride",679-13-0
+F235,O=S(=O)(OC(F)(F)F)C(F)(F)F,trifluoromethyl trifluoromethanesulfonate,5/6/3582
+F236,O=C(F)C(F)(C(=O)F)C(F)(F)F,2-fluoro-2-(trifluoromethyl)propanedioyl difluoride,42139-56-0
+F237,CC(F)(F)OS(=O)(=O)C(F)(F)F,"1,1-difluoroethyl trifluoromethanesulfonate",73323-78-1
+F238,COC(F)(F)C(F)C(F)(F)OC,"1,1,2,3,3-pentafluoro-1,3-dimethoxypropane",758-62-3
+F239,O=S(=O)(F)CCOC1CC1(F)F,"2-(2,2-difluorocyclopropyl)oxyethanesulfonyl fluoride",2138176-81-3
+F240,O=C(F)C(C(F)(F)F)C(F)(F)F,"3,3,3-trifluoro-2-(trifluoromethyl)propanoyl fluoride",382-22-9
+F241,O=C(CC(F)(F)F)OC(F)(F)F,"trifluoromethyl 3,3,3-trifluoropropanoate",93667-89-1
+F242,O=[N+]([O-])CCC(F)(F)C(F)(F)F,"1,1,1,2,2-pentafluoro-4-nitrobutane",2229533-59-7
+F243,FC(F)(F)OCCOC(F)(F)F,"1,2-bis(trifluoromethoxy)ethane",1683-90-5
+F244,O=S(=O)(F)CC(F)(F)C(F)(F)F,"2,2,3,3,3-pentafluoropropane-1-sulfonyl fluoride",643766-82-9
+F245,O=S(=O)(F)C1CC2(C1)CC2(F)F,"2,2-difluorospiro[2.3]hexane-5-sulfonyl fluoride",2648956-11-8
+F246,O=S(=O)(F)CC1CC12CC2(F)F,"(2,2-difluorospiro[2.2]pentan-5-yl)methanesulfonyl fluoride",2763976-39-0
+F247,CCCCOC(=O)C1CC1(F)F,"butyl 2,2-difluorocyclopropane-1-carboxylate",260352-79-2
+F248,COC(=O)C12CC(C(=O)F)(C1)C2,methyl 3-carbonofluoridoylbicyclo[1.1.1]pentane-1-carboxylate,156329-85-0
+F249,COC(=O)C1CC2C(C1)C2(F)F,"methyl 6,6-difluorobicyclo[3.1.0]hexane-3-carboxylate",1093750-99-2
+F250,CCOC(=O)C1(C)CC(F)(F)C1,"ethyl 3,3-difluoro-1-methylcyclobutane-1-carboxylate",227607-45-6
+F251,O=C1OCC(OCC(F)(F)F)O1,"4-(2,2,2-trifluoroethoxy)-1,3-dioxolan-2-one",2071177-76-7
+F252,COC(=O)C1C[C@@H]2[C@H](C1)C2(F)F,"methyl (1R,5S)-6,6-difluorobicyclo[3.1.0]hexane-3-carboxylate",2101546-05-6
+F253,CCOC(=O)C1(C(C)(F)F)CC1,"ethyl 1-(1,1-difluoroethyl)cyclopropane-1-carboxylate",2004650-47-7
+F254,COC(=O)C12CC(C(F)F)(C1)C2,methyl 3-(difluoromethyl)bicyclo[1.1.1]pentane-1-carboxylate,2363075-05-0
+F255,COC(=O)[C@]12C[C@H]1CCC2(F)F,"methyl (1S,5R)-2,2-difluorobicyclo[3.1.0]hexane-1-carboxylate",2832886-65-2
+F256,O=S(=O)(F)CC1CC2(C1)CC2F,(2-fluorospiro[2.3]hexan-5-yl)methanesulfonyl fluoride,2648966-58-7
+F257,COC(=O)C1(C(F)F)CC1(C)C,"methyl 1-(difluoromethyl)-2,2-dimethylcyclopropane-1-carboxylate",2138510-93-5
+F258,COCCOCOCC(F)(F)F,"1,1,1-trifluoro-2-(2-methoxyethoxymethoxy)ethane",130156-55-7
+F259,CC1(CS(=O)(=O)F)CC(F)(F)C1,"(3,3-difluoro-1-methylcyclobutyl)methanesulfonyl fluoride",2295505-69-8
+F260,O=S(=O)(F)CC1C(F)(F)C12CC2,"(2,2-difluorospiro[2.2]pentan-1-yl)methanesulfonyl fluoride",2648942-22-5
+F261,O=S(=O)(F)CC1CC1C(F)(F)F,[2-(trifluoromethyl)cyclopropyl]methanesulfonyl fluoride,2648945-95-1
+F262,O=S(=O)(F)C1CCC2C1C2(F)F,"6,6-difluorobicyclo[3.1.0]hexane-2-sulfonyl fluoride",2757959-84-3
+F263,CC1(C)C(CS(=O)(=O)F)C1(F)F,"(2,2-difluoro-3,3-dimethylcyclopropyl)methanesulfonyl fluoride",2137912-64-0
+F264,O=S(=O)(F)C12CC(C(F)F)(C1)C2,3-(difluoromethyl)bicyclo[1.1.1]pentane-1-sulfonyl fluoride,2648961-60-6
+F265,O=S(=O)(F)C[C@@H]1C[C@H]1C(F)(F)F,"[(1R,2R)-2-(trifluoromethyl)cyclopropyl]methanesulfonyl fluoride",2648895-55-8
+F266,O=S(=O)(F)C1CC2C(C1)C2(F)F,"6,6-difluorobicyclo[3.1.0]hexane-3-sulfonyl fluoride",2385417-94-5
+F267,O=S(=O)(F)C1CC12CCCCC2,spiro[2.5]octane-2-sulfonyl fluoride,2648961-74-2
+F268,CC(F)(F)[C@@H]1C[C@H]1CS(=O)(=O)F,"[(1R,2R)-2-(1,1-difluoroethyl)cyclopropyl]methanesulfonyl fluoride",2648865-64-7
+F269,CC(F)(F)C1(CS(=O)(=O)F)CC1,"[1-(1,1-difluoroethyl)cyclopropyl]methanesulfonyl fluoride",2294233-34-2
+F270,CC1(C)C(CS(=O)(=O)F)C1(C)C,"(2,2,3,3-tetramethylcyclopropyl)methanesulfonyl fluoride",2172172-70-0
+F271,CC1(COS(C)(=O)=O)CC1(F)F,"(2,2-difluoro-1-methylcyclopropyl)methyl methanesulfonate",2218436-97-4
+F272,O=C(F)C1(F)OC(F)(F)OC1(F)F,"2,2,4,5,5-pentafluoro-1,3-dioxolane-4-carbonyl fluoride",70411-10-8
+F273,O=C1OC(F)(F)C(F)(C(F)(F)F)O1,"4,4,5-trifluoro-5-(trifluoromethyl)-1,3-dioxolan-2-one",183301-52-2
+F274,FC1(F)OC(F)(F)C(F)(F)C1(F)F,"2,2,3,3,4,4,5,5-octafluorooxolane",773-14-8
+F275,FC(F)(F)C1(F)OC1(F)C(F)(F)F,"2,3-difluoro-2,3-bis(trifluoromethyl)oxirane",773-29-5
+F276,FC(F)(F)C(F)(F)C1(F)OC1(F)F,"2,2,3-trifluoro-3-(1,1,2,2,2-pentafluoroethyl)oxirane",3709-90-8
+F277,FC(F)(F)C1(F)OC(F)(F)C1(F)F,"2,2,3,3,4-pentafluoro-4-(trifluoromethyl)oxetane",206867-84-7
+F278,FC1OC(F)(F)C(F)(C(F)(F)F)O1,"2,4,4,5-tetrafluoro-5-(trifluoromethyl)-1,3-dioxolane",344303-08-8
+F279,FC(F)(F)C1(F)C(F)(F)OC1(F)F,"2,2,3,4,4-pentafluoro-3-(trifluoromethyl)oxetane",214119-32-1
+F280,FC(F)(F)C1(C(F)(F)F)OC1(F)F,"2,2-difluoro-3,3-bis(trifluoromethyl)oxirane",707-13-1
+F281,O=S1(=O)OC(F)(F)C1(F)C(F)(F)F,"3,4,4-trifluoro-3-(trifluoromethyl)oxathietane 2,2-dioxide",773-15-9
+F282,FC(F)(F)COCOCC(F)(F)F,"1,1,1-trifluoro-2-(2,2,2-trifluoroethoxymethoxy)ethane",6263-71-4
+F283,FOC(F)(OF)C(F)(F)C(F)(F)F,"(1,2,2,3,3,3-hexafluoro-1-fluorooxypropyl) hypofluorite",72985-54-7
+F284,FCC(F)(CF)OC(F)(CF)CF,"1,2,3-trifluoro-2-(1,2,3-trifluoropropan-2-yloxy)propane",112009-42-4
+F285,O=C(F)C(F)(F)C(F)(F)C(F)(F)F,"2,2,3,3,4,4,4-heptafluorobutanoyl fluoride",335-42-2
+F286,O=C(F)C(F)(F)C(F)(F)S(=O)(=O)F,"2,2,3,3-tetrafluoro-3-fluorosulfonylpropanoyl fluoride",77545-05-2
+F287,O=COC(F)(F)C(F)(F)C(F)(F)F,"1,1,2,2,3,3,3-heptafluoropropyl formate",271257-42-2
+F288,CC(F)(F)C(=O)OC(=O)C(C)(F)F,"2,2-difluoropropanoyl 2,2-difluoropropanoate",173900-46-4
+F289,CCOC(=O)C1(F)C(F)(F)C1(F)F,"ethyl 1,2,2,3,3-pentafluorocyclopropane-1-carboxylate",2138198-58-8
+F290,FC(OC(F)C(F)(F)F)C(F)(F)F,"1,1,1,2-tetrafluoro-2-(1,2,2,2-tetrafluoroethoxy)ethane",67429-44-1
+F291,O=S1(=O)OS(=O)(=O)C(F)(F)C1(F)F,"3,3,4,4-tetrafluoro-1,2,5-oxadithiolane 2,2,5,5-tetraoxide",82727-19-3
+F292,O=C(F)C(F)(C(F)(F)F)C(F)(F)F,"2,3,3,3-tetrafluoro-2-(trifluoromethyl)propanoyl fluoride",677-84-9
+F293,COC1(OC)OCC(C(F)(F)F)O1,"2,2-dimethoxy-4-(trifluoromethyl)-1,3-dioxolane",2977166-74-6
+F294,N#CC(F)(F)C(F)(F)C(F)(F)C#N,"2,2,3,3,4,4-hexafluoropentanedinitrile",376-89-6
+F295,CC(=O)OCC(F)(F)COC(C)=O,"(3-acetyloxy-2,2-difluoropropyl) acetate",33420-49-4
+F296,O=S(=O)(F)C12CC(C(F)(F)F)(C1)C2,3-(trifluoromethyl)bicyclo[1.1.1]pentane-1-sulfonyl fluoride,2648957-57-5
+F297,O=S(=O)(F)CC12CCCC1C2(F)F,"(6,6-difluoro-1-bicyclo[3.1.0]hexanyl)methanesulfonyl fluoride",2648946-47-6
+F298,O=S(=O)(F)C1CC2(C1)CC(F)(F)C2,"2,2-difluorospiro[3.3]heptane-6-sulfonyl fluoride",2648945-70-2
+F299,O=S(=O)(F)CC1CC2(C1)CC2(F)F,"(2,2-difluorospiro[2.3]hexan-5-yl)methanesulfonyl fluoride",2648941-98-2
+F300,O=S(=O)(F)CC1CC2C(C1)C2(F)F,"(6,6-difluoro-3-bicyclo[3.1.0]hexanyl)methanesulfonyl fluoride",2293391-38-3
+F301,O=S(=O)(F)CC1C(F)(F)C12CCC2,"(2,2-difluorospiro[2.3]hexan-1-yl)methanesulfonyl fluoride",2303700-87-8
+F302,CC(C)(C)C12CC(S(=O)(=O)F)(C1)C2,3-tert-butylbicyclo[1.1.1]pentane-1-sulfonyl fluoride,2763915-39-3
+F303,O=S(=O)(F)C[C@]12C[C@H]1CCC2(F)F,"[(1R,5R)-2,2-difluoro-1-bicyclo[3.1.0]hexanyl]methanesulfonyl fluoride",2763927-22-4
+F304,O=S(=O)(F)CC12CC(C(F)F)(C1)C2,[3-(difluoromethyl)-1-bicyclo[1.1.1]pentanyl]methanesulfonyl fluoride,2763927-32-6
+F305,CC(F)(F)C(F)(F)CCS(=O)(=O)F,"3,3,4,4-tetrafluoropentane-1-sulfonyl fluoride",2757912-20-0
+F306,O=C(OC(=O)C(F)(F)F)C(F)(F)F,"(2,2,2-trifluoroacetyl) 2,2,2-trifluoroacetate",407-25-0
+F307,O=C(F)C(F)(C(F)(F)F)S(=O)(=O)F,"2,3,3,3-tetrafluoro-2-fluorosulfonylpropanoyl fluoride",754-41-6
+F308,O=[N+]([O-])C(F)(C(F)(F)F)C(F)(F)F,"1,1,1,2,3,3,3-heptafluoro-2-nitropropane",2730-56-5
+F309,CCOC(=O)C1[C@H]2CC(F)(F)C[C@@H]12,"ethyl (1S,5R)-3,3-difluorobicyclo[3.1.0]hexane-6-carboxylate",234085-27-9
+F310,CCOC(=O)C1C2CC(F)(F)CC21,"ethyl 3,3-difluorobicyclo[3.1.0]hexane-6-carboxylate",1823348-86-2
+F311,COC(=O)C1CC2(C1)CC(F)(F)C2,"methyl 2,2-difluorospiro[3.3]heptane-6-carboxylate",1419101-40-8
+F312,CCOC(=O)C1(F)C2CC(F)CC21,"ethyl 3,6-difluorobicyclo[3.1.0]hexane-6-carboxylate",1823901-96-7
+F313,O=C(OCCCF)OCC(F)(F)F,"3-fluoropropyl 2,2,2-trifluoroethyl carbonate",1980085-54-8
+F314,COC(=O)[C@]1(C#N)C[C@H]1S(=O)(=O)F,"methyl (1R,2R)-1-cyano-2-fluorosulfonylcyclopropane-1-carboxylate",2137642-65-8
+F315,COC(=O)C1(C#N)CC1S(=O)(=O)F,methyl 1-cyano-2-fluorosulfonylcyclopropane-1-carboxylate,2138174-55-5
+F316,COC(=O)C12CC(C#N)(C1)C2(F)F,"methyl 3-cyano-2,2-difluorobicyclo[1.1.1]pentane-1-carboxylate",2460495-18-3
+F317,O=S(=O)(OCC(F)(F)F)C(F)(F)F,"2,2,2-trifluoroethyl trifluoromethanesulfonate",6226-25-1
+F318,O=S(=O)(F)C(C(F)(F)F)C(F)(F)F,"1,1,1,3,3,3-hexafluoropropane-2-sulfonyl fluoride",64254-55-3
+F319,O=S(=O)(CC(F)(F)F)OC(F)(F)F,"trifluoromethyl 2,2,2-trifluoroethanesulfonate",2203-44-3
+F320,FC(F)(F)C(F)(F)C(F)(F)[C@H]1CO1,"(2R)-2-(1,1,2,2,3,3,3-heptafluoropropyl)oxirane",2227832-78-0
+F321,FC(F)(F)C(F)(F)C(F)(F)[C@@H]1CO1,"(2S)-2-(1,1,2,2,3,3,3-heptafluoropropyl)oxirane",2227857-77-2
+F322,FC(F)OC(F)(C(F)F)C(F)(F)F,"2-(difluoromethoxy)-1,1,1,2,3,3-hexafluoropropane",233258-12-3
+F323,CC(F)(F)COS(=O)(=O)C(F)(F)F,"2,2-difluoropropyl trifluoromethanesulfonate",784193-15-3
+F324,CC(F)(F)C1(COS(C)(=O)=O)CC1,"[1-(1,1-difluoroethyl)cyclopropyl]methyl methanesulfonate",2153935-78-3
+F325,FC1(F)OC12C(F)(F)C(F)(F)C2(F)F,"2,2,4,4,5,5,6,6-octafluoro-1-oxaspiro[2.3]hexane",53389-66-5
+F326,FC(F)OC(F)(F)C(F)(F)OC(F)F,"1,2-bis(difluoromethoxy)-1,1,2,2-tetrafluoroethane",188690-78-0
+F327,FC1(F)OC(F)(F)C(F)(F)OC1(F)F,"2,2,3,3,5,5,6,6-octafluoro-1,4-dioxane",32981-22-9
+F328,O=C(F)C(F)(F)C(F)(F)OC(F)(F)F,"2,2,3,3-tetrafluoro-3-(trifluoromethoxy)propanoyl fluoride",425-38-7
+F329,FC(C(F)(F)F)C(F)(F)OC(F)(F)F,"1,1,1,2,3,3-hexafluoro-3-(trifluoromethoxy)propane",428454-68-6
+F330,O=S(=O)(F)OC(F)(F)C(F)(F)C(F)F,"1,1,2,2,3,3-hexafluoro-1-fluorosulfonyloxypropane",105660-26-2
+F331,FC(OC(F)(F)C(F)(F)F)C(F)(F)F,"1,1,1,2,2-pentafluoro-2-(1,2,2,2-tetrafluoroethoxy)ethane",360796-50-5
+F332,O=S(=O)(F)C(F)(F)C(F)(F)C(F)(F)F,"1,1,2,2,3,3,3-heptafluoropropane-1-sulfonyl fluoride",423-40-5
+F333,O=C(F)C(F)(OC(F)(F)F)C(F)(F)F,"2,3,3,3-tetrafluoro-2-(trifluoromethoxy)propanoyl fluoride",2927-83-5
+F334,O=S1(=O)OC(F)(F)C(F)(F)S(=O)(=O)O1,"5,5,6,6-tetrafluoro-1,3,2,4-dioxadithiane 2,2,4,4-tetraoxide",1858-59-9
+F335,O=C(OC(F)(F)C(F)(F)F)C(F)(F)F,"1,1,2,2,2-pentafluoroethyl 2,2,2-trifluoroacetate",30952-31-9
+F336,FC(F)(F)OC(C(F)(F)F)C(F)(F)F,"1,1,1,3,3,3-hexafluoro-2-(trifluoromethoxy)propane",162401-05-0
+F337,O=S(=O)(C(F)(F)F)C(F)(F)C(F)(F)F,"1,1,1,2,2-pentafluoro-2-(trifluoromethylsulfonyl)ethane",84416-69-3
+F338,O=P(C(F)(F)F)(C(F)(F)F)C(F)(F)F,bis(trifluoromethyl)phosphoryl-trifluoromethane,423-01-8
+F339,O=C(OC(F)(F)F)C(=O)OC(F)(F)F,bis(trifluoromethyl) oxalate,20583-24-8
+F340,O=S(=O)(F)C(F)(C(F)(F)F)C(F)(F)F,"1,1,1,2,3,3,3-heptafluoropropane-2-sulfonyl fluoride",14856-91-8
+F341,FC(F)(F)COCCOCC(F)(F)F,"1,1,1-trifluoro-2-[2-(2,2,2-trifluoroethoxy)ethoxy]ethane",80054-75-7
+F342,CCOC(=O)C1(F)C2CC(F)(F)CC21,"ethyl 3,3,6-trifluorobicyclo[3.1.0]hexane-6-carboxylate",1823329-16-3
+F343,CC(=O)OC(F)(F)C(F)(F)C(F)(F)F,"1,1,2,2,3,3,3-heptafluoropropyl acetate",1344118-10-0
+F344,O=C(F)C(F)(F)S(=O)(=O)OS(=O)(=O)F,"fluorosulfonyl 1,1,2-trifluoro-2-oxoethanesulfonate",16798-71-3
+F345,O=S(=O)(F)CC1CCC2(C1)CC2(F)F,"(2,2-difluorospiro[2.4]heptan-6-yl)methanesulfonyl fluoride",2648961-67-3
+F346,O=S(=O)(F)CC12CCCCC1C2(F)F,"(7,7-difluoro-1-bicyclo[4.1.0]heptanyl)methanesulfonyl fluoride",2648947-67-3
+F347,O=S(=O)(F)C[C@]12C[C@H]1COC21CCC1,"[(1R,5R)-spiro[3-oxabicyclo[3.1.0]hexane-2,1'-cyclobutane]-1-yl]methanesulfonyl fluoride",2380457-69-0
+F348,O=S(=O)(F)CC1CC2(C1)CC(F)(F)C2,"(2,2-difluorospiro[3.3]heptan-6-yl)methanesulfonyl fluoride",2648962-58-5
+F349,O=S(=O)(F)CC12CC(C(F)(F)F)(C1)C2,[3-(trifluoromethyl)-1-bicyclo[1.1.1]pentanyl]methanesulfonyl fluoride,2648948-02-9
+F350,CC12CC(COS(C)(=O)=O)(C1)C2(F)F,"(2,2-difluoro-3-methyl-1-bicyclo[1.1.1]pentanyl)methyl methanesulfonate",2866352-97-6
+F351,O=C1OC(=O)C(F)(F)C(F)(F)C1(F)F,"3,3,4,4,5,5-hexafluorooxane-2,6-dione",376-68-1
+F352,O=C(OS(=O)(=O)C(F)(F)F)C(F)(F)F,"trifluoromethylsulfonyl 2,2,2-trifluoroacetate",68602-57-3
+F353,COC(=O)C12CC(COC(F)F)(C1)C2,methyl 3-(difluoromethoxymethyl)bicyclo[1.1.1]pentane-1-carboxylate,2815546-82-6
+F354,COC(=O)C1CC12CC(S(=O)(=O)F)C2,methyl 5-fluorosulfonylspiro[2.3]hexane-2-carboxylate,2172073-13-9
+F355,COC(=O)C1(C(F)F)C(C)(C)C1(C)C,"methyl 1-(difluoromethyl)-2,2,3,3-tetramethylcyclopropane-1-carboxylate",2138189-00-9
+F356,O=C(F)C1(F)OC(F)(F)C(F)(F)C1(F)F,"2,3,3,4,4,5,5-heptafluorooxolane-2-carbonyl fluoride",65601-73-2
+F357,O=C(F)C(F)(F)C(F)(F)C1(F)OC1(F)F,"2,2,3,3-tetrafluoro-3-(2,3,3-trifluorooxiran-2-yl)propanoyl fluoride",140173-04-2
+F358,FC(F)(F)C(F)(F)OC(F)(F)C(F)(F)F,"1,1,1,2,2-pentafluoro-2-(1,1,2,2,2-pentafluoroethoxy)ethane",358-21-4
+F359,FC(F)OC(F)(F)OC(F)(F)OC(F)F,difluoromethoxy-[difluoromethoxy(difluoro)methoxy]-difluoromethane,249932-25-0
+F360,FC(F)C1(F)OC(F)(F)C(F)(F)C1(F)F,"2-(difluoromethyl)-2,3,3,4,4,5,5-heptafluorooxolane",65601-68-5
+F361,O=S(=O)(F)OC(F)(F)C(F)(F)C(F)(F)F,"1,1,1,2,2,3,3-heptafluoro-3-fluorosulfonyloxypropane",662-98-6
+F362,FC(F)(F)OC(F)(F)C(F)(F)C(F)(F)F,"1,1,1,2,2,3,3-heptafluoro-3-(trifluoromethoxy)propane",59426-77-6
+F363,O=C(F)C(F)(F)OC(F)(F)OC(F)(F)F,"2-[difluoro(trifluoromethoxy)methoxy]-2,2-difluoroacetyl fluoride",21703-43-5
+F364,FC(F)OC(F)(F)C(F)(F)OC(F)(F)F,"1-(difluoromethoxy)-1,1,2,2-tetrafluoro-2-(trifluoromethoxy)ethane",40891-98-3
+F365,FC1OC(F)(F)C(F)(F)C(F)(F)C1(F)F,"2,2,3,3,4,4,5,5,6-nonafluorooxane",65601-69-6
+F366,FC(F)(F)OC(F)(C(F)(F)F)C(F)(F)F,"1,1,1,2,3,3,3-heptafluoro-2-(trifluoromethoxy)propane",60901-74-8
+F367,O=S(=O)(F)C(F)(F)C(F)(F)OC(F)(F)F,"1,1,2,2-tetrafluoro-2-(trifluoromethoxy)ethanesulfonyl fluoride",139747-75-4
+F368,O=C(F)C(F)(F)C(F)(F)C(F)(F)C(=O)F,"2,2,3,3,4,4-hexafluoropentanedioyl difluoride",678-78-4
+F369,O=C(F)C(F)(F)C(F)(F)C(F)(F)C(F)F,"2,2,3,3,4,4,5,5-octafluoropentanoyl fluoride",813-03-6
+F370,O=S(=O)(OC(F)(F)C(F)(F)F)C(F)(F)F,"1,1,2,2,2-pentafluoroethyl trifluoromethanesulfonate",74501-94-3
+F371,FC(F)(F)OCCOCCOC(F)(F)F,1-(trifluoromethoxy)-2-[2-(trifluoromethoxy)ethoxy]ethane,329710-73-8
+F372,FC(F)C(F)(F)COCC(F)(F)C(F)F,"1,1,2,2-tetrafluoro-3-(2,2,3,3-tetrafluoropropoxy)propane",82914-35-0
+F373,CC(=O)OCC1(COC(C)=O)CC1(F)F,"[1-(acetyloxymethyl)-2,2-difluorocyclopropyl]methyl acetate",597555-97-0
+F374,O=C(OCCCF)OCC(F)(F)C(F)F,"3-fluoropropyl 2,2,3,3-tetrafluoropropyl carbonate",1980048-41-6
+F375,FC1OC(C(F)F)(C(F)(F)F)OC1(F)F,"2-(difluoromethyl)-4,4,5-trifluoro-2-(trifluoromethyl)-1,3-dioxolane",50607-96-0
+F376,FCOC(F)(F)C(C(F)(F)F)C(F)(F)F,"2-[difluoro(fluoromethoxy)methyl]-1,1,1,3,3,3-hexafluoropropane",16507-58-7
+F377,O=S(=O)(F)CC1(C(F)(F)F)CC(F)(F)C1,"[3,3-difluoro-1-(trifluoromethyl)cyclobutyl]methanesulfonyl fluoride",2648956-19-6
+F378,O=S(=O)(F)CC1C(F)(F)C12CCOCC2,"(2,2-difluoro-6-oxaspiro[2.5]octan-1-yl)methanesulfonyl fluoride",2648957-67-7
+F379,O=C(F)C(C(=O)F)(C(F)(F)F)C(F)(F)F,"2,2-bis(trifluoromethyl)propanedioyl difluoride",42139-57-1
+F380,O=C(OCC(F)(F)F)C(F)(F)S(=O)(=O)F,"2,2,2-trifluoroethyl 2,2-difluoro-2-fluorosulfonylacetate",108344-43-0
+F381,CCOC(=O)C1(C(=O)OCC)CC1(F)F,"diethyl 2,2-difluorocyclopropane-1,1-dicarboxylate",1393569-67-9
+F382,COC(=O)C1(C)OC12CCC(F)(F)CC2,"methyl 6,6-difluoro-2-methyl-1-oxaspiro[2.5]octane-2-carboxylate",2004290-72-4
+F383,CC(C)(C)OC(=O)C1(F)C(F)(F)C1(F)F,"tert-butyl 1,2,2,3,3-pentafluorocyclopropane-1-carboxylate",2138259-02-4
+R1,COCF,fluoro(methoxy)methane,460-22-0
+R2,FC1(F)CO1,"2,2-difluorooxirane",126716-68-5
+R3,FCOCF,fluoro(fluoromethoxy)methane,462-51-1
+R4,C1OC12CO2,"1,4-dioxaspiro[2.2]pentane",157-42-6
+R5,FC1COC1,3-fluorooxetane,26272-86-6
+R6,COC(F)(F)F,trifluoro(methoxy)methane,421-14-7
+R7,CC1(CF)CO1,2-(fluoromethyl)-2-methyloxirane,45371-96-8
+R8,FC1OC1(F)F,"2,2,3-trifluorooxirane",2925-24-8
+R9,COC(F)(F)OC,difluoro(dimethoxy)methane,54796-90-6
+R10,FOC(F)(F)OF,[difluoro(fluorooxy)methyl] hypofluorite,16282-67-0
+R11,CC1(C)OC1(F)F,"2,2-difluoro-3,3-dimethyloxirane",374-02-7
+R12,FC(F)(F)[C]1CO1,2-(trifluoromethyl)oxirane,359-41-1
+R13,FC(F)(F)[C@H]1CO1,(2R)-2-(trifluoromethyl)oxirane,143142-90-9
+R14,CC(F)(F)C1(C)CO1,"2-(1,1-difluoroethyl)-2-methyloxirane",2228982-39-4
+R15,FC1(F)COCOC1,"5,5-difluoro-1,3-dioxane",36301-44-7
+R16,C1CC2OC23CCC13,"2-oxatricyclo[4.2.0.01,3]octane",26147-41-1
+R17,FC(F)(F)OC(F)(F)F,trifluoro(trifluoromethoxy)methane,1479-49-8
+R18,FC1OC(F)(F)C1(F)F,"2,2,3,3,4-pentafluorooxetane",163062-22-4
+R19,FC1(F)OCOC1(F)F,"4,4,5,5-tetrafluoro-1,3-dioxolane",76492-96-1
+R20,FC(F)O[CH]C(F)(F)F,"2-(difluoromethoxy)-1,1,1-trifluoroethane",1885-48-9
+R21,C1CC12CCC1(CO1)C2,6-oxadispiro[2.1.25.23]nonane,109532-56-1
+R22,FC1(F)CCCC12CO2,"4,4-difluoro-1-oxaspiro[2.4]heptane",2829277-97-4
+R23,FC1(F)OC(F)(F)C1(F)F,"2,2,3,3,4,4-hexafluorooxetane",425-82-1
+R24,F[C](F)OC(F)C(F)(F)F,"2-(difluoromethoxy)-1,1,1,2-tetrafluoroethane",57041-67-5
+R25,FC1(F)C2C3CCC(O3)C21,"3,3-difluoro-8-oxatricyclo[3.2.1.02,4]octane",277755-62-1
+R26,F[C](F)C(F)(F)OC(F)(F)F,"1,1,2,2-tetrafluoro-1-(trifluoromethoxy)ethane",2356-61-8
+R27,FC(OC(F)(F)F)C(F)(F)F,"1,1,1,2-tetrafluoro-2-(trifluoromethoxy)ethane",2356-62-9
+R28,FC(F)(F)C1(C(F)(F)F)CO1,"2,2-bis(trifluoromethyl)oxirane",31898-68-7
+R29,COC(OC)C1(C)OC12CC2,2-(dimethoxymethyl)-2-methyl-1-oxaspiro[2.2]pentane,80706-61-2
+R30,CC12CCC3C(C1O2)C3(C)C,"4,8,8-trimethyl-3-oxatricyclo[5.1.0.02,4]octane",20053-58-1
+R31,FC(F)C(F)(F)C1(F)OC1(F)F,"2,2,3-trifluoro-3-(1,1,2,2-tetrafluoroethyl)oxirane",50838-64-7
+R32,FC(F)(F)C1(F)OCOC1(F)F,"4,4,5-trifluoro-5-(trifluoromethyl)-1,3-dioxolane",76492-99-4
+R33,COC(F)(C(F)(F)F)C(F)(F)F,"1,1,1,2,3,3,3-heptafluoro-2-methoxypropane",22052-84-2
+R34,CCC1(CC)C(OC)CC12CO2,"4,4-diethyl-5-methoxy-1-oxaspiro[2.3]hexane",2248300-52-7
+R35,COC1C(C)C2(CO2)C12CCC2,8-methoxy-9-methyl-2-oxadispiro[2.0.34.23]nonane,2248293-54-9
+R36,FC(F)(F)OCC(F)(F)C(F)(F)F,"1,1,1,2,2-pentafluoro-3-(trifluoromethoxy)propane",171182-94-8
+R37,COC1CC(F)(F)C(F)(F)C1(F)F,"1,1,2,2,3,3-hexafluoro-4-methoxycyclopentane",31525-08-3
+R38,FCCOC(OCCF)OCCF,1-[bis(2-fluoroethoxy)methoxy]-2-fluoroethane,2339-51-7
+R39,FC(F)(F)C(F)(F)C(F)(F)C1CO1,"2-(1,1,2,2,3,3,3-heptafluoropropyl)oxirane",51035-20-2
+R40,FC1(F)C(F)(F)C2(F)OC2(F)C1(F)F,"1,2,2,3,3,4,4,5-octafluoro-6-oxabicyclo[3.1.0]hexane",710-70-3
+R41,F[C](C(F)(F)F)C(F)(F)OC(F)(F)F,"1,1,1,2,3,3-hexafluoro-3-(trifluoromethoxy)propane",428454-68-6
+R42,COC1(OC)CCCCC12OC21CC1,"9,9-dimethoxy-10-oxadispiro[2.0.54.13]decane",89229-70-9
+R43,C1CCC2(C34CCCCC3O4)OC2C1,1-(7-oxabicyclo[4.1.0]heptan-1-yl)-7-oxabicyclo[4.1.0]heptane,141668-35-1
+R44,[CH]OCC(F)(F)C(F)(F)C(F)(F)C(F)F,"1,1,2,2,3,3,4,4-octafluoro-5-methoxypentane",77527-96-9
+R45,FC(F)(F)C1C(F)(F)OC(F)(F)C1(F)F,"2,2,3,3,5,5-hexafluoro-4-(trifluoromethyl)oxolane",61340-70-3
+R46,CCCCC1(C2(C)OCCO2)OC12CC2,"2-butyl-2-(2-methyl-1,3-dioxolan-2-yl)-1-oxaspiro[2.2]pentane",80706-62-3
+R47,COC(F)(F)C(F)(C(F)(F)F)C(F)(F)F,"2-[difluoro(methoxy)methyl]-1,1,1,2,3,3,3-heptafluoropropane",163702-08-7
